@@ -37,3 +37,21 @@ body{
         
     }
 }
+
+.side-navbar-links{
+    background-color: black;
+    width:50% ;
+    height:100%;
+    position: fixed;
+    top:0;
+    left: 0;
+    padding: 20px;
+    color: white;
+}
+.side-navbar-link{
+  margin-bottom: 30px;
+}
+.side-navbar-links a{
+    text-decoration: none;
+    color: white;
+}
